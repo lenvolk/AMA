@@ -13,3 +13,5 @@ Get-AzVMImagePublisher -location usgovvirginia | Get-AzVMExtensionImagetype | ?{
 ```bash
 Heartbeat | where Category == "Azure Monitor Agent" and Computer == "onprem-srv1" | take 10
 ```
+### t-shooting doc
+(https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-windows-arc#basic-troubleshooting-steps-installation-agent-not-running-configuration-issues)
