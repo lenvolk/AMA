@@ -121,10 +121,10 @@
   "type": "Microsoft.Authorization/policyDefinitions",
   "name": "02e6e5c7-609a-42a1-bff2-9646b5df90d6",
   "systemData": {
-    "createdBy": "levolkov@mcsinternaltrials.onmicrosoft.com",
+    "createdBy": "LenVolk",
     "createdByType": "User",
     "createdAt": "2023-01-09T13:48:36.4383273Z",
-    "lastModifiedBy": "levolkov@mcsinternaltrials.onmicrosoft.com",
+    "lastModifiedBy": "LenVolk",
     "lastModifiedByType": "User",
     "lastModifiedAt": "2023-01-09T16:12:10.7683486Z"
   }
